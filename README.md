@@ -12,7 +12,7 @@
 
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=buwaneka-halpage&repo=new-portfolio&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d&cache_seconds=1800)](https://github.com/buwaneka-halpage/new-portfolio)
-[![MERCon Project](https://github-readme-stats.vercel.app/api/pin/?username=buwaneka-halpage&repo=mercon1&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d&cache_seconds=1800)](https://github.com/buwaneka-halpage/mercon1)
+[![Kandypack Logistics Platform](https://github-readme-stats.vercel.app/api/pin/?username=buwaneka-halpage&repo=kandypack-logistics-platform&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d&cache_seconds=1800)](https://github.com/buwaneka-halpage/kandypack-logistics-platform)
 
 </div>
 
