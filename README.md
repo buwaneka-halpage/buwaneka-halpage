@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Buwaneka Halpage
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Logistics+%26+Supply+Chain+Expert;AIESEC+Leader;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Software+Engineer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
 ---
@@ -26,13 +26,11 @@
 
 📍 **Based in Moratuwa, Sri Lanka**
 
-🏆 **Current CGPA:** 3.74/4.0
-
 🔭 **Currently focused on:**
-- Logistics & Supply Chain Technology
 - Full-Stack Web Development
-- CRM Development for AIESEC
-- Leadership & Team Management
+- System Design & Architecture
+- Cloud Computing & DevOps
+- Software Engineering Best Practices
 
 🌱 **Learning:** Advanced System Design, Cloud Computing, DevOps
 
@@ -46,20 +44,23 @@
 
 ### 🚀 **Dev Team - Software Engineer** | AIESEC Sri Lanka
 *Mar 2025 - Present*
-- Developing CRM system for AIESEC Sri Lanka
-- Implementing data migration and reallocation strategies
-- Building notification features for web applications
+- Developing CRM system for AIESEC Sri Lanka using modern web technologies
+- Implementing data migration and reallocation strategies for improved system efficiency
+- Building real-time notification features for web applications
+- Collaborating with cross-functional teams to deliver scalable solutions
 
-### 👨‍💼 **Field Representative** | University of Moratuwa CSE Dept
+### 🧑‍💼 **Field Representative** | University of Moratuwa CSE Dept
 *Mar 2025 - Present*
-- Mediating between academic staff and students
+- Mediating between academic staff and students to ensure effective communication
 - Addressing student concerns and academic issues
+- Facilitating departmental initiatives and student engagement programs
 
 ### 📊 **Team Leader - oGT Market Expansion** | AIESEC Colombo South
 *July 2024 - Feb 2025*
-- Led market research and expansion initiatives
-- Converted potential companies to External Entities
-- Mentored team members in business development
+- Led market research and expansion initiatives for outgoing Global Talent program
+- Converted potential companies to External Entities through strategic partnerships
+- Mentored team members in business development and relationship management
+- Achieved measurable growth in partnership acquisition and stakeholder engagement
 
 ---
 
@@ -131,9 +132,12 @@
 ## 🌟 Key Skills
 
 ### 💻 **Technical Skills**
-- Full-Stack Web Development
-- Database Design & Management
+- Full-Stack Web Development (React, Next.js, Node.js, Express)
+- Database Design & Management (MongoDB, PostgreSQL, MySQL)
 - System Design & Architecture
+- RESTful API Development
+- Cloud Computing & Deployment (Vercel)
+- Version Control & Collaboration (Git, GitHub)
 - Software Engineering Best Practices
 
 ### 🤝 **Leadership Skills**
@@ -141,6 +145,7 @@
 - Strategic Planning & Execution
 - Event Management & Logistics
 - Cross-functional Collaboration
+- Stakeholder Communication
 
 ### 📊 **Business Skills**
 - Market Research & Analysis
