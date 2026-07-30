@@ -61,14 +61,14 @@
 
 <div align="center">
 
-[![FreshLens](https://github-readme-stats.vercel.app/api/pin/?username=FreshLens-AI&repo=FreshLens-AI&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/FreshLens-AI/FreshLens-AI)
-[![Smart Campus Digital Twin](https://github-readme-stats.vercel.app/api/pin/?username=Smart-Campus-Digital-Twin&repo=Smart-Campus-Digital-Twin-v3&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/Smart-Campus-Digital-Twin/Smart-Campus-Digital-Twin-v3)
+[![FreshLens](https://github-readme-stats.shion.dev/api/pin/?username=FreshLens-AI&repo=FreshLens-AI&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/FreshLens-AI/FreshLens-AI)
+[![Smart Campus Digital Twin](https://github-readme-stats.shion.dev/api/pin/?username=Smart-Campus-Digital-Twin&repo=Smart-Campus-Digital-Twin-v3&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/Smart-Campus-Digital-Twin/Smart-Campus-Digital-Twin-v3)
 
-[![KandyPack](https://github-readme-stats.vercel.app/api/pin/?username=buwaneka-halpage&repo=kandypack-logistics-platform&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/buwaneka-halpage/kandypack-logistics-platform)
-[![Temple Gate RAG](https://github-readme-stats.vercel.app/api/pin/?username=buwaneka-halpage&repo=temple-gate-rag&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/buwaneka-halpage/temple-gate-rag)
+[![KandyPack](https://github-readme-stats.shion.dev/api/pin/?username=buwaneka-halpage&repo=kandypack-logistics-platform&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/buwaneka-halpage/kandypack-logistics-platform)
+[![Temple Gate RAG](https://github-readme-stats.shion.dev/api/pin/?username=buwaneka-halpage&repo=temple-gate-rag&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/buwaneka-halpage/temple-gate-rag)
 
-[![CritiCo](https://github-readme-stats.vercel.app/api/pin/?username=buwaneka-halpage&repo=CritiCo&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/buwaneka-halpage/CritiCo)
-[![Spot the Difference](https://github-readme-stats.vercel.app/api/pin/?username=buwaneka-halpage&repo=spot-the-difference&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/buwaneka-halpage/spot-the-difference)
+[![CritiCo](https://github-readme-stats.shion.dev/api/pin/?username=buwaneka-halpage&repo=CritiCo&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/buwaneka-halpage/CritiCo)
+[![Spot the Difference](https://github-readme-stats.shion.dev/api/pin/?username=buwaneka-halpage&repo=spot-the-difference&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/buwaneka-halpage/spot-the-difference)
 
 </div>
 
@@ -163,8 +163,8 @@ Multi-agent meal planner for Sri Lankan households with store-by-store basket op
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buwaneka-halpage&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6A5ACD&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buwaneka-halpage&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=buwaneka-halpage&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6A5ACD&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=buwaneka-halpage&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 <div align="center">
