@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://buwaneka-portfolio.xyz/"><img src="https://img.shields.io/badge/Portfolio-buwaneka--portfolio.xyz-00D9FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://buwaneka.xyz/"><img src="https://img.shields.io/badge/Portfolio-buwaneka.xyz-00D9FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/buwaneka-halpage/"><img src="https://img.shields.io/badge/LinkedIn-buwaneka--halpage-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:buwanekah.23@cse.mrt.ac.lk"><img src="https://img.shields.io/badge/Email-buwanekah.23%40cse.mrt.ac.lk-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Moratuwa%2C%20Sri%20Lanka-green?style=flat-square" alt="Location"/>
@@ -31,7 +31,7 @@
 
 **🌱 Building through CritiCo** — an AI-focused venture for agentic systems and data-driven products
 
-🌐 **Portfolio:** [buwaneka-portfolio.xyz](https://buwaneka-portfolio.xyz/)
+🌐 **Portfolio:** [buwaneka.xyz](https://buwaneka.xyz/)
 
 ---
 
@@ -187,7 +187,7 @@ Multi-agent meal planner for Sri Lankan households with store-by-store basket op
 <a href="https://www.linkedin.com/in/buwaneka-halpage/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
 </a>
-<a href="https://buwaneka-portfolio.xyz/">
+<a href="https://buwaneka.xyz/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="Portfolio"/>
 </a>
 <a href="https://github.com/buwaneka-halpage">
